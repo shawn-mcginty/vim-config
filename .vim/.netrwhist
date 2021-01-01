@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/shawn/.vim'
+let g:netrw_dirhist_2='/Users/shawn/dev/traclabs/eagle-provisioning'
+let g:netrw_dirhist_1='/Users/shawn/dev/jabroni-web-client/apps/jabroni_web_client/src/db_migrations'
